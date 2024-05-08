@@ -1,2 +1,2 @@
-# solid-invention
-Implementations of RAG
+# Abstract
+Implementations of RAG projects
