@@ -20,5 +20,3 @@ Steps:
 6. Pydantic & What is fast api from concepts to code
 8. What is gradio and how to create UIs using Gradio
 9. Combine everything and create a fully functional LLM App.
-
-YouTube Playlist Link: https://youtube.com/playlist?list=PLOrU905yPYXIqQLY6ulQqB8e414-DFuyd&si=nStqjRUsbytX3J5k
